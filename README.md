@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phildaniels
+- 👋 Hi, I’m Phil Daniels (@phildaniels)
 - 👀 I’m interested in developing and architecting cool things in node, .NET, and the Azure Cloud
 - 🌱 I’m currently learning more node, more architecture
 - 💞️ I’m looking to collaborate on nothing at the moment, but please reach out if you have ideas, I'd love to hear them!
