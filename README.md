@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Phil Daniels (@phildaniels)
-- 👀 I’m an Engineer currently at Microsoft, developing things with React, .NET, and Azure. I'm also pretty handy in things like Node, Next.js, and Serverless.
-- 🌱 I’m currently learning Rust 🦀, Svelte ![svelte logo](https://avatars.githubusercontent.com/u/23617963?s=15&v=4), and SolidJs  ![solidjs logo](https://avatars.githubusercontent.com/u/79226042?s=15&v=4)
+- 👀 I’m an Engineer currently at Microsoft, developing all things Agents and LLMs, in Copilot and the Power Platform
 - 💞️ I’m looking to collaborate on nothing at the moment, but please reach out if you have ideas, I'd love to hear them!
 - 📫 How to reach me ... best by email, phil at danielsdev.cloud
 
